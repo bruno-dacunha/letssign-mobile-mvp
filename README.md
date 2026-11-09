@@ -33,13 +33,13 @@ A interface foi construída para garantir uma curva de aprendizado nula e máxim
 
 <div align="center">
   <img src="assets/tela-login.png" alt="Tela de Login" width="250"/>
-  <img src="assets/tela-dashboard-admin.png" alt="Dashboard Admin" width="250"/>
   <img src="assets/tela-wizard-upload.png" alt="Wizard de Upload" width="250"/>
+  <img src="assets/tela-drag-drop.png" alt="Posicionamento Drag & Drop" width="250"/>
 </div>
 <br>
 <div align="center">
-  <img src="assets/tela-drag-drop.png" alt="Posicionamento Drag & Drop" width="250"/>
-  <img src="assets/tela-dashboard-signatario.png" alt="Dashboard Signatário" width="250"/>
+  <img src="assets/tela-dashboard-admin.png" alt="Dashboard Admin" width="520"/>
+  <img src="assets/tela-dashboard-signatario.png" alt="Dashboard Signatário" width="520"/>
 </div>
 
 
