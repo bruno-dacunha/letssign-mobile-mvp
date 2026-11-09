@@ -4,14 +4,14 @@
 
 🎥 **[Assista ao Vídeo Demonstrativo do Aplicativo em funcionamento aqui](https://www.youtube.com/watch?v=B1qP2JngOSU)**
 
----
+
 
 ## 🎯 A Dor do Negócio (O Paradoxo Mobile)
 Embora os ecossistemas de assinatura eletrônica sejam robustos na web, a experiência em dispositivos móveis frequentemente falha. A tentativa de posicionar assinaturas, validar documentos e recolher rubricas através de navegadores mobile gera fricção.
 *   **O Risco para a Empresa:** Documentos travados, perda de validade por erros de preenchimento e atrasos no fechamento de negócios devido a uma interface não responsiva.
 *   **O Desafio:** Criar uma ferramenta que reduza o atrito do signatário e dê controle total ao gestor em trânsito.
 
----
+
 
 ## 💡 A Solução e Proposta de Valor
 Desenvolvemos uma aplicação móvel focada na usabilidade *frictionless* (sem atrito), precisão visual e segurança operacional. A plataforma foi dividida em duas jornadas distintas:
@@ -26,7 +26,7 @@ Desenvolvemos uma aplicação móvel focada na usabilidade *frictionless* (sem a
 *   **Foco Direcionado:** O PDF é aberto já ancorado na coordenada exata exigida para a ação.
 *   **Assinatura Manuscrita:** Quadro interativo para captura de rubrica com estampa matemática definitiva no documento.
 
----
+
 
 ## 📸 Interface e Experiência do Usuário (UX)
 A interface foi construída para garantir uma curva de aprendizado nula e máximo engajamento.
@@ -42,7 +42,7 @@ A interface foi construída para garantir uma curva de aprendizado nula e máxim
   <img src="assets/tela-dashboard-signatario.png" alt="Dashboard Signatário" width="520"/>
 </div>
 
----
+
 
 ## 🏗️ Arquitetura e Engenharia de Software (Bastidores)
 A aplicação não é apenas uma interface; ela foi concebida sob rigorosos padrões de engenharia para permitir escalabilidade corporativa:
